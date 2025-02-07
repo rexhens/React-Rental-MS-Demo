@@ -177,8 +177,8 @@ const ReservationForm = () => {
                 </div>
                 <div className="col-lg-6 d-none d-lg-flex fadeInRight animated" style={{ animationDelay: "1s" }}>
                   <div className="text-start">
-                    <h1 className="display-5 text-white">Get 15% off your rental! Plan your trip now.</h1>
-                    <p className="text-white">Treat yourself in the USA!</p>
+                    <h1 className="display-5 text-white">Car rental application demo</h1>
+                    <p className="text-white">Get your website and boost your business now.</p>
                   </div>
                 </div>
               </div>
